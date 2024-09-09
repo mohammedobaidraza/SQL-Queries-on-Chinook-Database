@@ -30,7 +30,7 @@ The Chinook database is a sample database representing a digital media store. Th
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/SQL_Assignment_Project.git
+   git clone https://github.com/your-username/SQL-Queries-on-Chinook-Database.git
 
 
 ## SQL Queries Included
